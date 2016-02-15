@@ -1,0 +1,55 @@
+Closure
+story based text adventure game
+
+Main character is Guy/John/Mark from London. One day he receives a letter where he finds out that his step-sister from USA passed away and he inherited her house. If he wants to claim the inheritance he has to go to the small coastal town in Minnesota called Garrison (population 210). He decides to go.
+
+The game starts after Guy's arrival at the Minneapolis airport where he stands in line for customs. After a while he is called by a US police officer.
+-Hello, passport please.
+Guy opens his passport on the page with his photo and name - Guy/John/Mark and hands the passport to the officer.
+-What's the purpose of your trip?
+-I'm here on business./I'm going to take care of some things after my late step-sister./None of your fucking business you pig.
+-Please put your right hand over here.
+He points at small green lit rectangular device.
+-Now please look in the camera.
+He takes your photo and you catch a glimpse of it on his monitor. You see a blonde guy with a thick moustache/freckled ginger with glasses/guy with dark hair and wide chin.
+-Thank you sir, go ahead.
+
+After that Guy needs to catch a connecting flight to Brainerd from where it is 24 miles to Garrison. In Brainerd Guy rents a car and finally drives to Garrison.
+
+Guy is quite tired after 16 hours long flight and also due to jetlag, but first he has to visit local office and retreive the key to the house. Fortunately since the town is so small he finds the office easily. There is only one person behind the desk and few people waiting in line. They give him strange looks like they immediately know he's not from around here. After a while the last man that was in front of the Guy leaves and as he does, he bumps in Guy seemingly on purpose and mumbles "Asshole."
+-What did you say?/Ignore him.
+He ignores you and walks out. Guy walks to the desk and talks to the clerk.
+-Hello how are you?
+-silence
+Guy puts a letter about the inheritence on the desk.
+-I would like to pick up a key to the house of my step-sister. She was living here.
+-Clerk stares at you and says nothing.
+-Am I in the right place?
+Clerk slowly picks up the letter and reads. After what seems like an eternity, she puts it down and gives you a long hard look.
+-You are Guy Devine.
+Even though it didn't sound like a question, Guy responds.
+-Yes I am.
+Clerk slowly stands up from the desk and goes to a room in the back. Guy notices a clock on the wall that suddenly seem to tick much louder than before. Finally the clerk comes back, puts key on the desk and ignores Guy. Guy takes the key and without a word heads out to the house.
+
+It gets dark and when Guy arrives at the house he is surprised that lights in the house are on. There are drapes on the windows so he can't see inside, but as he walks to the front door he sees a shadow behind one of the windows and hears slow jazzy music. Guy knocks on the door, but there is no response. He tries the door and it's open so he walks inside.
+-Hello? Is anybody in here?
+Guy notices a broken glass frame with a picture on the floor and few drops of blood. He looks in few rooms and in the living room he finds a woman sitting on the couch and listening to radio. When she sees you she quickly wipes her eyes.
+-Hi, you must be Guy.
+-That's correct and you are...?
+-Sorry I imagine that you wouldn't expect to find anybody in here. I'm Lisa. Michelle was my best friend. I knew you were coming and I wanted to clean up the house a bit. And... to be with her one last time in a way...
+-I think I understand. What happened in the lobby? I thought there were burglars or something.
+She chuckles silently.
+-No, no, I was just wiping the photo and I slipped and I didn't want to deal with it right away, sorry. It was taken on our trip to Niagara falls two years ago. 
+Guy sits on the couch next to Lisa.
+-Look I can imagine what you're going through, but I'm really tired after the flight, maybe we can talk later?/GTFO BITCH/How was it?
+-It was great. But I don't want to bother you with that right now, maybe we can talk later. I should go.
+Lisa leaves and Guys goes to bed.
+Guy suddenly gets awoken by strange noises. It's still dark outside. It sounds like cracking glass. He goes out the bed and finds that a window in the living room has small cracks and there are few small rocks lying outside.
+In the morning Guy goes to a local lawyer to sign some papers in order to get a full posession of the house.
+---
+when you return you would find out that someone sprayed some weird stuff all over the house. like "murderer" or "go away" and such
+and then the girl would call you you out for a coffee or something
+and you would get close to her and the endgame would be that she knew from the beginning the truth which is that you murdered your own step sister
+and she wanted to revenge her
+
+and you were just a sick fuck that murdered her either in a heat of the moment because she gave you shit for something like that you are selfish and don't care about your family or you just wanted the house
