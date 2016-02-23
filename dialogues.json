@@ -1,0 +1,70 @@
+{
+  "first_scene": "d_1",
+  "last_scene": "d_5",
+  "dialogues": {
+    "d_1": {
+      "NPC_TALKS": ["Hello, passport please."],
+      "ANSWERS": [
+        {
+          "id": "d_1_a_1",
+          "text": "you open your passport on the page name {{ name }}.",
+          "next": "d_2"
+        }
+      ]
+    },
+    "d_2": {
+      "NPC_TALKS": ["Whats the purpose of your trip?", "Please sir, try to be more cooperative"],
+      "ANSWERS": [
+        {
+          "id": "d_2_a_1",
+          "text": "I am here on business",
+          "next": "d_3"
+        },
+        {
+          "id": "d_2_a_2",
+          "text": "Im going to take care of late sister stuff",
+          "next": "d_3"
+        },
+        {
+          "id": "d_2_a_3",
+          "text": "That's none of your business",
+          "next": "d_2"
+        }
+      ]
+    },
+    "d_3": {
+      "NPC_TALKS": ["Please put your right hand over here. He points at small green lit device."],
+      "ANSWERS": [
+        {
+          "id": "d_3_a_1",
+          "text": "He takes your photo and catch a glimpse of his monitor",
+          "next": "d_4"
+        }
+      ]
+    },
+    "d_4": {
+      "NPC_TALKS": [],
+      "ANSWERS": [
+        {
+          "id": "d_4_a_1",
+          "text": "You see a blonde guy with a thich mustache",
+          "next": "d_5"
+        },
+        {
+          "id": "d_4_a_2",
+          "text": "You see a frackled ginger with glasses",
+          "next": "d_5"
+        },
+        {
+          "id": "d_4_a_3",
+          "text": "You see a guy with long dark hair and wide chin.",
+          "next": "d_5"
+        }
+      ]
+    },
+    "d_5": {
+      "NPC_TALKS": ["Thank you sir, go ahead"],
+      "ANSWERS": []
+    }
+  }
+}
