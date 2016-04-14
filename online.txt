@@ -1,2 +1,6 @@
 online
+<<<<<<< HEAD
 JURAJ MI PREPISAL FAJL!!!!111
+=======
+moj precious kod
+>>>>>>> development
